@@ -3,6 +3,11 @@
 A project with demo scenes for a 2D game in Godot 4.X.  
 
 
+## Documentation index
+
+[Player documentation](Player/PlayerDocs.md)
+
+
 ## Roadmap:
 	
 - State Machine 2D player  
